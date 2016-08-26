@@ -1,6 +1,6 @@
 var size;
 var num = 0;
-var skillnum = [370, 450];
+var skillnum = [350, 450];
 var suu = 0;
 var gameScene = cc.Scene.extend({
   onEnter: function() {
